@@ -1,5 +1,5 @@
 {
-	"file": "https://github.com/prudich27/frizzle-wannabe/blob/master/Gene%20Overview.csv",
+	"file": "https://github.com/prudich27/frizzle-wannabe/blob/master/Gene%20Overview-binary.csv",
 	"name": "Overlapping Genes",
 	"header": 0,
 	"separator": ",",
@@ -8,6 +8,6 @@
 		{ "type": "id", "index": 0, "name": "Mutant" }
 	],
 	"sets": [
-		{ "format": "float", "start": 1, "end": 197 }
+		{ "format": "binary", "start": 1, "end": 197 }
 	]
 }
