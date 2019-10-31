@@ -7,6 +7,6 @@
 		{ "type": "id", "index": 0, "name": "Mutant" }
 	],
 	"sets": [
-		{ "format": "binary", "start": 1, "end": 196 }
+		{ "format": "binary", "start": 1, "end": 9 }
 	]
 }
