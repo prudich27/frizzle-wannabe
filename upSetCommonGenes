@@ -6,8 +6,7 @@
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "Mutant" },
-		{ "type": "float", "index": 1, "name": "Expression Change"},
 	"sets": [
-		{ "format": "binary", "start": 5, "end": 9 }
+		{ "format": "float", "start": 1, "end": 197 }
 	]
 }
