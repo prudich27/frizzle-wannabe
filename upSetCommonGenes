@@ -1,0 +1,13 @@
+{
+	"file": https://www.dropbox.com/s/491owgww596jure/Gene%20Overview.csv?dl=0,
+	"name": "Overlapping Genes",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Mutant" },
+		{ "type": "float", "index": 1, "name": "Expression Change"},
+	"sets": [
+		{ "format": "binary", "start": 5, "end": 9 }
+	]
+}
